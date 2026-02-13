@@ -1,4 +1,29 @@
-# k-id age verifier
-age verifies your account automatically as an adult on any website using k-id
+# K-ID Age Verifier
 
-more information and usage is [on the website](https://age-verifier.kibty.town)
+Don’t want to hand your face, ID, or personal documents to random websites just to prove you’re an adult?
+
+Use this tool to get verified as 18+ on K-ID once — then let supported sites confirm your age automatically without asking again.
+
+## Why use this?
+
+No uploading IDs to every site
+
+No selfies or document scans here
+
+One-time K-ID adult verification
+
+Reusable across K-ID–enabled websites
+
+Get verified
+
+[website here.](https://age-verifier.kibty.town/)
+
+
+
+
+
+
+
+
+
+[on the website](https://age-verifier.kibty.town)
